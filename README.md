@@ -1,6 +1,6 @@
 <!-- Banner image (optional) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Arpit%20Singla&fontSize=40&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=55" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Arnav%20Singla&fontSize=40&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=55" alt="banner"/>
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
 </p>
 
 <!-- Short Bio -->
-## 👋 Hi, I'm Arpit Singla
+## 👋 Hi, I'm Arnav Singla
 
 I'm passionate about Data Science, Deep Learning, and building cool projects!  
 Check out my repositories and feel free to connect.
