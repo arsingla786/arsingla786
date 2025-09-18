@@ -1,9 +1,10 @@
 # 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Arnav%20Singla&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20%7C%20Programming%20%7C%20Innovation%20Architect&descAlignY=55&descSize=18" />
+  <a href="#" onmouseover="this.querySelector('img').src='https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,25:4ecdc4,50:45b7d1,75:96ceb4,100:feca57&height=200&section=header&text=ARNAV%20SINGLA&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=✨%20Data%20Scientist%20%7C%20Deep%20Learning%20Engineer%20%7C%20Innovation%20Architect%20✨&descAlignY=55&descSize=18'" onmouseout="this.querySelector('img').src='https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=ARNAV%20SINGLA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20Deep%20Learning%20Engineer%20%7C%20Innovation%20Architect&descAlignY=55&descSize=18'" style="cursor: pointer; transition: transform 0.3s ease;">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=ARNAV%20SINGLA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20Deep%20Learning%20Engineer%20%7C%20Innovation%20Architect&descAlignY=55&descSize=18" style="transition: all 0.5s ease-in-out; border-radius: 15px;" onmouseover="this.style.transform='scale(1.02) translateY(-5px)'; this.style.boxShadow='0 20px 40px rgba(102, 126, 234, 0.4), 0 15px 12px rgba(118, 75, 162, 0.3)'; this.style.filter='brightness(1.1) saturate(1.2)'" onmouseout="this.style.transform='scale(1) translateY(0px)'; this.style.boxShadow='none'; this.style.filter='brightness(1) saturate(1)'" />
+  </a>
 </div>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Building+the+Future+with+AI;Transforming+Data+into+Intelligence;Code+%7C+Create+%7C+Innovate" alt="Typing SVG" />
 </div>
