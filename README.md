@@ -1,5 +1,4 @@
-# 
-
+#
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Arnav%20Singla&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20%7C%20Deep%20Learning%20Engineer%20%7C%20Innovation%20Architect&descAlignY=55&descSize=18" />
 </div>
@@ -11,15 +10,8 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Building+the+Future+with+AI;Transforming+Data+into+Intelligence;Code+%7C+Create+%7C+Innovate" alt="Typing SVG" />
-</div>
-
-## 
-
-<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
-
 <div align="center">
 
 ### Data Scientist & AI Engineer passionate about turning complex problems into elegant solutions
