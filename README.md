@@ -3,10 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Arnav%20Singla&fontSize=40&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=55" alt="banner"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arsingla786&label=Profile%20views&color=0e75b6&style=flat" alt="arsingla786" />
-</p>
-
 <!-- Short Bio -->
 ## 👋 Hi, I'm Arnav Singla
 
@@ -26,14 +22,12 @@ Check out my repositories and feel free to connect.
 
 ---
 
-## 🚀 Top Projects
+##  Top Projects
 
 - [Project-Neerakshak](https://github.com/arsingla786/Project-Neerakshak)
-- [DS-Lab-assignments](https://github.com/arsingla786/DS-Lab-assignments)
-- [AllSortingAlgos](https://github.com/arsingla786/AllSortingAlgos)
-- [DL](https://github.com/arsingla786/DL)
 - [Customer-Churn-Prediction](https://github.com/arsingla786/Customer-Churn-Prediction)
-
+- [Disease Prediction System](https://github.com/arsingla786/healthCareModel)
+- [AllSortingAlgos](https://github.com/arsingla786/AllSortingAlgos)
 ---
 
 ## 🛠️ Languages & Tools
@@ -53,5 +47,7 @@ Check out my repositories and feel free to connect.
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail)](mailto:arnavsingla06@gmail.com)
 
 ---
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arsingla786&label=Profile%20views&color=0e75b6&style=flat" alt="arsingla786" />
+</p>
 <p align="center">Thanks for visiting! 🚀</p>
