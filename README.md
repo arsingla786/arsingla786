@@ -70,11 +70,7 @@ Currently working on cutting-edge ML projects
 [![Sorting Algorithms](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=arsingla786&repo=AllSortingAlgos&theme=react&border_color=61dafb&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)](https://github.com/arsingla786/AllSortingAlgos)
 
 </div>
-## Contribution Graph
 
-<p align="center">
-  <img src="./pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph">
-</p>
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Connect & Collaborate
 
 <div align="center">
