@@ -37,7 +37,11 @@ Currently working on cutting-edge ML projects
 
 ### Development & Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker,linux&theme=dark" />
+## Contribution Graph
 
+<p align="center">
+  <img src="./pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph">
+</p>
 ### Databases & Cloud
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,aws,azure&theme=dark" />
 
