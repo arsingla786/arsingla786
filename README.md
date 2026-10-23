@@ -59,17 +59,6 @@ Currently working on cutting-edge ML projects
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arsingla786&theme=react-dark&bg_color=0D1117&hide_border=true&line=F85D7F&point=F8D866&color=ffffff" width="100%"/>
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Featured Projects
-
-<div align="center">
-  
-[![Project Neerakshak](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=arsingla786&repo=Project-Neerakshak&theme=react&border_color=61dafb&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)](https://github.com/arsingla786/Project-Neerakshak)
-[![Customer Churn Prediction](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=arsingla786&repo=Customer-Churn-Prediction&theme=react&border_color=61dafb&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)](https://github.com/arsingla786/Customer-Churn-Prediction)
-
-[![Disease Prediction System](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=arsingla786&repo=healthCareModel&theme=react&border_color=61dafb&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)](https://github.com/arsingla786/healthCareModel)
-[![Sorting Algorithms](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=arsingla786&repo=AllSortingAlgos&theme=react&border_color=61dafb&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)](https://github.com/arsingla786/AllSortingAlgos)
-
-</div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Connect & Collaborate
 
